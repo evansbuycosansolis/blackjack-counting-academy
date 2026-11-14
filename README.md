@@ -4,6 +4,8 @@ Browser-local blackjack play, counting education and statistical research with v
 
 Public development project: forks, issues and pull requests are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for setup, validation and mathematical contribution requirements. Project code is available under the [MIT license](LICENSE).
 
+Follow the [public GitHub Project](https://github.com/users/evansbuycosansolis/projects/4) for the development roadmap.
+
 ## Run
 
 Use Node.js 22 and npm. Dependencies are pinned by package-lock.json.
